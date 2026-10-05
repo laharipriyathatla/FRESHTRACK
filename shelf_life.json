@@ -1,0 +1,10 @@
+[
+ {"category":"Dairy","keywords":["milk","mlk","toned","curd","dahi","yogurt","yoghurt","buttermilk","lassi"],"days_fridge":3,"days_room":1},
+ {"category":"Dairy","keywords":["paneer","cheese","butter","cream"],"days_fridge":7,"days_room":1},
+ {"category":"Eggs","keywords":["egg","eggs"],"days_fridge":21,"days_room":7},
+ {"category":"Bread","keywords":["bread","bun","pav","roti"],"days_fridge":7,"days_room":3},
+ {"category":"Leafy vegetable","keywords":["spinach","palak","coriander","methi","mint","lettuce","cabbage"],"days_fridge":4,"days_room":1},
+ {"category":"Vegetable","keywords":["tomato","onion","potato","carrot","capsicum","brinjal","cauliflower","beans","okra","bhindi","cucumber","gourd"],"days_fridge":7,"days_room":4},
+ {"category":"Fruit","keywords":["apple","banana","mango","orange","grapes","papaya","pomegranate","guava"],"days_fridge":7,"days_room":4},
+ {"category":"Meat & fish","keywords":["chicken","mutton","fish","prawn"],"days_fridge":2,"days_room":0}
+]

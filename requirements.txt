@@ -1,0 +1,9 @@
+fastapi==0.115.*
+uvicorn[standard]==0.32.*
+python-multipart==0.0.*
+python-dotenv==1.0.*
+openai==1.*
+rapidfuzz==3.*
+rapidocr-onnxruntime==1.3.*
+Pillow==10.*
+apscheduler==3.10.*
